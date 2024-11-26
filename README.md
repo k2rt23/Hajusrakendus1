@@ -8,5 +8,5 @@ How to run:
 - use nodemon . to run backend
 -----------------------------------------------------------------------
 team resources:
-https://studio.apicur.io/apis/112831/
-https://trello.com/b/436EYyWL/piletimuuk
+- https://studio.apicur.io/apis/112831/
+- https://trello.com/b/436EYyWL/piletimuuk
